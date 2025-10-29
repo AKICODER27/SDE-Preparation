@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int num=10;
+    int num=40;
+    //if else conditions
     if(num>20)
     {
         cout<<"LOL";
@@ -13,7 +14,10 @@ int main()
     {
         cout<<"HURRAY";
     }
+    return 0;
+}
 
+{
     int num=21;
     if(num%2==0)
     cout<<"EVEN NUMBER";
